@@ -27,5 +27,8 @@ A local, UI-driven No-Limit Texas Hold’em simulator for practicing **$1/$3 cas
 
 ### 1) Clone the repo
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd Poker_Simulator
+git clone <GITHUB_REPO_URL>
+cd Poker_Simulator 
+
+### License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
