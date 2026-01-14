@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [build-system]
 requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
@@ -10,3 +11,17 @@ requires-python = ">=3.10"
 
 [tool.setuptools.packages.find]
 where = ["."]
+=======
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nlhe-sim"
+version = "0.1.0"
+description = "NLHE poker simulator"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["."]
+>>>>>>> bb5b6fa79b5e80af3a576b30cc9a561e03bea778
